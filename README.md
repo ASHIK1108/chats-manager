@@ -1,1 +1,1 @@
-# chats-manager-frontend
+# chats-manager
